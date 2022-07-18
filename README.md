@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ozeechristine/Social-Proof-Section-Solution)
-- Live Site URL: (https://ozeechristine.github.io/Social-Proof-Section-Solution/m)
+- Live Site URL: (https://ozeechristine.github.io/Social-Proof-Section-Solution/)
 
 
 ### Built with
